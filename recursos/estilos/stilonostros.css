@@ -1,0 +1,48 @@
+.testi {background-color: blue;
+padding: 30px;
+padding-left: 650px;
+font-family:monospace;
+}
+body { background-image: url(/recursos/imagenes/istockphoto-1301554437-612x612.jpg);}
+.pcell{ background-color: blue;
+padding-left: 780px;
+font-family:monospace;
+}
+.mision {background-color: blue;
+    font-family:monospace;
+padding-left: 650px;}
+.misionuno{font-family:monospace}
+
+.equipo{background-color: blue;
+    font-family:monospace;}
+    .equipouno{font-family:monospace}
+    
+
+.servicios{background-color: blue;
+    font-family:monospace;
+    }
+    .serviciosuno{font-family:monospace}
+
+.tecnologia{background-color: blue;
+    font-family:monospace;
+    }
+    .tecnouno{font-family:monospace}
+    
+.politica{background-color: blue;
+    font-family:monospace;
+    }
+    .politicauno{font-family:monospace}
+
+.red{background-color: blue;
+    font-family:monospace;
+   }
+  
+   .insta{padding-left: 500px;
+    font-family:monospace;
+background-color: blue}
+.instan{padding-left: 600px;}
+
+.fbuno{padding-left: 500px;
+    font-family:monospace;
+background-color: blue}
+.fb{padding-left: 600px;}

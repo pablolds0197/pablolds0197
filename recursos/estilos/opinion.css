@@ -1,0 +1,39 @@
+body { background-image: url(/recursos/imagenes/istockphoto-1301554437-612x612.jpg);}
+
+.contacto{font-family:monospace;
+background-color: blue;
+padding-left: 750px;}
+
+.asunto {padding-left: 750px;font-family:monospace;}
+.nombre{font-family:monospace;
+    padding-left: 750px;}
+.telefono{font-family:monospace;
+    padding-left: 750px;}
+.email{font-family:monospace;
+    padding-left: 750px;
+    }
+.mensaje{font-family:monospace;padding-left: 750px;
+    }
+.enviar{font-family:monospace;
+    margin-left: 750px;
+    }
+    
+.hom{margin-left: 750px;
+    font-family:monospace;
+    }
+.muj{margin-left:750px ;
+    font-family:monospace;
+    }
+    .formu{font-family:monospace;
+        background-color: blue;
+        padding-left: 550px;}
+    .formulario{font-family:monospace;
+        background-color: blue;
+        padding-left: 600px;}
+    .imagen{padding-left: 650px;}
+    .red{font-family:monospace;
+        background-color: blue;
+        }
+
+
+

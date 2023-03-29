@@ -1,0 +1,56 @@
+body { background-image: url(/recursos/imagenes/istockphoto-1301554437-612x612.jpg);}
+.servicioss{font-family:monospace;
+    background-color: blue;
+padding-left: 650px;}
+.display{width: 400px;
+	height: 400px;
+    padding-left: 680px;
+}
+.bateria{width: 400px;
+	height: 400px;
+    padding-left: 680px;
+}
+
+.carga{width: 400px;
+	height: 400px;
+    padding-left: 680px;
+}
+.mante{width: 400px;
+	height: 400px;
+    padding-left: 680px;
+}
+.board{width: 400px;
+	height: 400px;
+    padding-left: 680px;
+}
+.tapa{width: 400px;
+	height: 400px;
+    padding-left: 680px;
+}
+
+.ofrecemos{padding-left: 400px;
+    background-color: blue;
+    font-family:monospace;}
+
+.celulares{padding-left: 750px;
+    background-color: blue;
+    font-family:monospace;}
+
+    .displayuno{padding-left: 780px;
+        background-color: blue;
+        font-family:monospace;}
+    .bateriauno{padding-left: 780px;
+        background-color: blue;
+        font-family:monospace;}
+    .cargauno{padding-left: 780px;
+        background-color: blue;
+        font-family:monospace;}
+    .manteuno{padding-left: 780px;
+        background-color: blue;
+        font-family:monospace;}
+    .boarduno{padding-left: 780px;
+        background-color: blue;
+        font-family:monospace;}
+    .tapauno{padding-left: 780px;
+        background-color: blue;
+        font-family:monospace;}
